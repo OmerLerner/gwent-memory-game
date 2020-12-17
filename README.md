@@ -2,6 +2,8 @@
 
 A React based web app which simluates a memory game: Get points for choosing a card, but don't choose the same card twice!
 
+__Github Pages:__ https://omerlerner.github.io/gwent-memory-game/
+
 ## Features
 
 * __Dynamic dataset -__ The app supports any custom dataset! Make sure to edit the __data.js__ file and the __pictures__ folder.
