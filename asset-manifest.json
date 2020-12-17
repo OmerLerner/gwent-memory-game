@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/gwent-memory-game/static/css/main.de8e725b.chunk.css",
+    "main.js": "/gwent-memory-game/static/js/main.89ead6c5.chunk.js",
+    "main.js.map": "/gwent-memory-game/static/js/main.89ead6c5.chunk.js.map",
+    "runtime-main.js": "/gwent-memory-game/static/js/runtime-main.7b6c4361.js",
+    "runtime-main.js.map": "/gwent-memory-game/static/js/runtime-main.7b6c4361.js.map",
+    "static/js/2.7c32a769.chunk.js": "/gwent-memory-game/static/js/2.7c32a769.chunk.js",
+    "static/js/2.7c32a769.chunk.js.map": "/gwent-memory-game/static/js/2.7c32a769.chunk.js.map",
+    "index.html": "/gwent-memory-game/index.html",
+    "static/css/main.de8e725b.chunk.css.map": "/gwent-memory-game/static/css/main.de8e725b.chunk.css.map",
+    "static/js/2.7c32a769.chunk.js.LICENSE.txt": "/gwent-memory-game/static/js/2.7c32a769.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/gwent-memory-game/static/media/background.7452d72a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b6c4361.js",
+    "static/js/2.7c32a769.chunk.js",
+    "static/css/main.de8e725b.chunk.css",
+    "static/js/main.89ead6c5.chunk.js"
+  ]
+}
